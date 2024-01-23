@@ -1,0 +1,289 @@
+[
+  {
+    "id": 1,
+    "name": "Begonia",
+    "price": 12.99,
+    "category": "Flower",
+    "image": "/images/begonia.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Lilac",
+    "price": 18.99,
+    "category": "Flower",
+    "image": "/images/lilac.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fern",
+    "price": 24.99,
+    "category": "Foliage",
+    "image": "/images/fern.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Succulent",
+    "price": 8.99,
+    "category": "Cactus",
+    "image": "/images/succulent.jpg"
+  },{
+    "id": 5,
+    "name": "Tulip",
+    "price": 15.99,
+    "category": "Flower",
+    "image": "/images/tulip.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bonsai Tree",
+    "price": 34.99,
+    "category": "Tree",
+    "image": "/images/bonsai.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Lavender",
+    "price": 18.99,
+    "category": "Herb",
+    "image": "/images/lavender.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Snake Plant",
+    "price": 22.99,
+    "category": "Indoor",
+    "image": "/images/snakeplant.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Sunflower",
+    "price": 10.99,
+    "category": "Flower",
+    "image": "/images/sunflower.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Fiddle Leaf Fig",
+    "price": 29.99,
+    "category": "Foliage",
+    "image": "/images/fiddleleaffig.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Aloe Vera",
+    "price": 14.99,
+    "category": "Succulent",
+    "image": "/images/aloe.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Palm Tree",
+    "price": 49.99,
+    "category": "Tree",
+    "image": "/images/palm.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Daisy",
+    "price": 9.99,
+    "category": "Flower",
+    "image": "/images/daisy.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Mint",
+    "price": 5.99,
+    "category": "Herb",
+    "image": "/images/mint.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Fuchsia",
+    "price": 16.99,
+    "category": "Flower",
+    "image": "/images/fuchsia.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Money Tree",
+    "price": 39.99,
+    "category": "Indoor",
+    "image": "/images/moneytree.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Lily",
+    "price": 13.99,
+    "category": "Flower",
+    "image": "/images/lily.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Pothos",
+    "price": 17.99,
+    "category": "Foliage",
+    "image": "/images/pothos.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Cactus Mix",
+    "price": 21.99,
+    "category": "Cactus",
+    "image": "/images/cactusmix.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Chamomile",
+    "price": 8.99,
+    "category": "Herb",
+    "image": "/images/chamomile.jpg"
+  },
+  {
+    "id": 21,
+    "name": "African Violet",
+    "price": 14.99,
+    "category": "Flower",
+    "image": "/images/africanviolet.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Maple Tree",
+    "price": 44.99,
+    "category": "Tree",
+    "image": "/images/mapletree.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Orchid",
+    "price": 26.99,
+    "category": "Flower",
+    "image": "/images/orchid.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Sage",
+    "price": 11.99,
+    "category": "Herb",
+    "image": "/images/sage.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Yucca",
+    "price": 32.99,
+    "category": "Foliage",
+    "image": "/images/yucca.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Spider Plant",
+    "price": 19.99,
+    "category": "Indoor",
+    "image": "/images/spiderplant.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Bird of Paradise",
+    "price": 36.99,
+    "category": "Foliage",
+    "image": "/images/birdofparadise.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Carnation",
+    "price": 9.99,
+    "category": "Flower",
+    "image": "/images/carnation.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Monstera",
+    "price": 29.99,
+    "category": "Foliage",
+    "image": "/images/monstera.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Bamboo",
+    "price": 24.99,
+    "category": "Tree",
+    "image": "/images/bamboo.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Thyme",
+    "price": 6.99,
+    "category": "Herb",
+    "image": "/images/thyme.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Daffodil",
+    "price": 11.99,
+    "category": "Flower",
+    "image": "/images/daffodil.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Ficus",
+    "price": 32.99,
+    "category": "Indoor",
+    "image": "/images/ficus.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Pansy",
+    "price": 7.99,
+    "category": "Flower",
+    "image": "/images/pansy.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Juniper Tree",
+    "price": 42.99,
+    "category": "Tree",
+    "image": "/images/junipertree.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Rosemary",
+    "price": 13.99,
+    "category": "Herb",
+    "image": "/images/rosemary.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Dahlia",
+    "price": 15.99,
+    "category": "Flower",
+    "image": "/images/dahlia.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Aloe Vera Mix",
+    "price": 16.99,
+    "category": "Succulent",
+    "image": "/images/aloeveramix.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Oak Tree",
+    "price": 49.99,
+    "category": "Tree",
+    "image": "/images/oaktree.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Cyclamen",
+    "price": 14.99,
+    "category": "Flower",
+    "image": "/images/cyclamen.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Rose",
+    "price": 12.99,
+    "category": "Flower",
+    "image": "/images/rose.jpg"
+  }
+
+]
